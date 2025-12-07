@@ -245,6 +245,18 @@ This is a strong result given the small dataset size.
 4. Neural network captures relationships between features effectively.
 5. Scaling features greatly helps training stability.
 
+
+
+<img width="1874" height="1012" alt="Image" src="https://github.com/user-attachments/assets/f36385cd-337f-451b-90a3-df5684f95986" />
+
+<img width="1873" height="1012" alt="Image" src="https://github.com/user-attachments/assets/484b7315-f8f2-432f-add2-d9fd28935898" />
+
+<img width="1874" height="1015" alt="Image" src="https://github.com/user-attachments/assets/43fb3147-ba7f-440a-a85d-e2d6da26452d" />
+
+<img width="1869" height="1014" alt="Image" src="https://github.com/user-attachments/assets/a01523d1-2f77-4fad-9757-11ebd870ef6c" />
+
+<img width="1871" height="1012" alt="Image" src="https://github.com/user-attachments/assets/8bcf7a7b-5c3f-4d6c-bd0e-47053847553f" />
+
 ---
 
 # 8. Project Conclusion
@@ -260,6 +272,8 @@ The model:
 
 This project showcases how AI can augment medical decision making in real clinical settings.
 
+<img width="1871" height="1007" alt="Image" src="https://github.com/user-attachments/assets/86ff6c60-a595-4647-80af-4ecee84e8645" />
+
 ---
 
 # 9. Limitations
@@ -268,6 +282,8 @@ This project showcases how AI can augment medical decision making in real clinic
 * Based solely on tabular data; real diagnosis typically uses imaging (mammograms).
 * The model is not medically validated.
 * Potential overfitting due to small dataset and long training time.
+
+<img width="1874" height="1013" alt="Image" src="https://github.com/user-attachments/assets/33203808-9c08-4985-a999-6aafd6bc41c0" />
 
 ---
 
@@ -279,6 +295,8 @@ This project showcases how AI can augment medical decision making in real clinic
 * Combine tabular data with image based models
 * Deploy as a web-based prediction tool
 * Validate on additional breast cancer datasets
+
+<img width="1873" height="1014" alt="Image" src="https://github.com/user-attachments/assets/856acd4b-9db6-4b03-8c3c-023f50b78434" />
 
 ---
 
@@ -293,13 +311,3 @@ This project showcases how AI can augment medical decision making in real clinic
 * Kaggle Breast Cancer Dataset
 
 ---
-
-# End of NotebookLM Pack
-
-If you want, I can now generate:
-
-* A full **presentation slide deck outline**
-* **Speaker notes**
-* A **GitHub README**
-* A **one-page abstract**
-  Just tell me.
